@@ -17,7 +17,7 @@ export const Skills = () => {
             id: 0, 
             name: ["Program","Language"], 
             skills: [
-                { name: "C", icon: "/src/assets/Skill-icon/1-c.svg" },
+                { name: "C", icon: "/Skill-icon/1-c.svg" },
                 { name: "C++", icon: "/src/assets/Skill-icon/1-cplusplus.svg" },
                 { name: "PHP", icon: "/src/assets/Skill-icon/1-php.svg" },
                 { name: "Python", icon: "/src/assets/Skill-icon/1-python.svg" },
