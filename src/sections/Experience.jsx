@@ -12,15 +12,15 @@ export const Experience = ({ onShowProjects }) => {
     const experienceData = [
         {
             id: 1,
-            date: "November 2021 - November 2025",
-            title: "Phoneshop Employee | Part Time",
+            date: "June 2023 - November 2025",
+            title: "Phoneshop Shopkeeper & Frontliner | Part Time",
             location: "NST Phoneshop",
             bullets: [
-                "Providing direct customer service",
-                "Maintaining the security of the store and ensuring all units are in good and safe condition",
-                "Ensuring the store is always in clean condition",
-                "Work as a team with sales to prevent miscommunication with the customers.",
-                "Maintaining customer trust in the our Phoneshop brand"
+                "Successfully provides targeted product consultations, able to provide customers the information they need and educating them on technical specifications so they can purchase devices that meet their needs and ensure a successful transaction.",
+                "Able to process daily transactions—both cash and non-cash—quickly and accurately for purchases of devices, accessories, phone credit, internet packages, and top-up services.",
+                "Experienced in managing visual display layouts and conducting regular stock checks (stock takings) to ensure data accuracy and the condition of merchandise, as well as arranging products on the shelves to keep them visually appealing and enhance their market value.",
+                "Able to handle, respond to, and provide solutions for customer complaints and product return processes to maintain customer trust in the store.",
+                "Successfully collaborates synergistically with sales colleagues and agents to optimize the store's operational efficiency from opening to closing."
             ]
         },
         {
@@ -50,12 +50,16 @@ export const Experience = ({ onShowProjects }) => {
         },
         {
             id: 4,
-            date: "October 2022 - January 2023",
-            title: "FrontEnd Developer | Freelance",
-            location: "Tanjung City Education Department",
+            date: "November 2021 - May 2023",
+            title: "Printing Operator | Part Time",
+            location: "Toko Viacom",
             bullets: [
-                "Working closely with developers and backend developer to contribute to the app's workflow and design process.",
-                "Leveraged JavaScript, MongoDB, and React.js to develop and construct dynamic and responsive websites with my team."
+                "Able to independently operate and perform technical maintenance on various types of printing machines to ensure equipment readiness and minimize daily operational issues.",
+                "Successfully ensures optimal print quality standards through meticulous quality control, a deep understanding of color accuracy, and the selection of appropriate paper specifications.",
+                "Possesses a deep understanding of optimal print quality standards through meticulous quality control, color accuracy, and paper selection.",
+                "Experienced in handling customer requests directly by providing quick solutions for document typing and editing services, contributing to high customer satisfaction.",
+                "Able to manage the entire workflow from start to finish, from preparing raw materials (ink and paper), processing various types of official documents, to the final finishing stage (laminating) with results meeting operational standards.",
+                "Possesses work resilience, such as the ability to work under pressure and good time management in a dynamic environment, with full dedication to the smooth daily operations of the store."
             ]
         }
     ];
