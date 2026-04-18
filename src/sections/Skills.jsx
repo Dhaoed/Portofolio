@@ -18,68 +18,68 @@ export const Skills = () => {
             name: ["Program","Language"], 
             skills: [
                 { name: "C", icon: "/Skill-icon/1-c.svg" },
-                { name: "C++", icon: "/src/assets/Skill-icon/1-cplusplus.svg" },
-                { name: "PHP", icon: "/src/assets/Skill-icon/1-php.svg" },
-                { name: "Python", icon: "/src/assets/Skill-icon/1-python.svg" },
-                { name: "JavaScript", icon: "/src/assets/Skill-icon/1-javascript.svg" },
-                { name: "TypeScript", icon: "/src/assets/Skill-icon/1-typescript.svg" }
+                { name: "C++", icon: "/Skill-icon/1-cplusplus.svg" },
+                { name: "PHP", icon: "/Skill-icon/1-php.svg" },
+                { name: "Python", icon: "/Skill-icon/1-python.svg" },
+                { name: "JavaScript", icon: "/Skill-icon/1-javascript.svg" },
+                { name: "TypeScript", icon: "/Skill-icon/1-typescript.svg" }
             ] 
         },
         { 
             id: 1, 
             name: ["Mobile","Development"], 
             skills: [
-                { name: "Flutter", icon: "/src/assets/Skill-icon/2-flutter.svg" },
-                { name: "Dart", icon: "/src/assets/Skill-icon/2-dart.svg" }
+                { name: "Flutter", icon: "/Skill-icon/2-flutter.svg" },
+                { name: "Dart", icon: "/Skill-icon/2-dart.svg" }
             ] 
         },
         { 
             id: 2, 
             name: ["Deep & Machine","Learning"], 
             skills: [
-                { name: "TensorFlow", icon: "/src/assets/Skill-icon/3-tensorflow.svg" },
-                { name: "PyTorch", icon: "/src/assets/Skill-icon/3-pytorch.svg" },
-                { name: "Scikit-Learn", icon: "/src/assets/Skill-icon/3-scikitlearn.svg" },
-                { name: "Pandas", icon: "/src/assets/Skill-icon/3-pandas.svg" },
-                { name: "NumPy", icon: "/src/assets/Skill-icon/3-numpy.svg" },
-                { name: "EfficientNet", icon: "/src/assets/Skill-icon/4-EfficientNet.svg" },
-                { name: "CNN", icon: "/src/assets/Skill-icon/4-CNN.svg" }
+                { name: "TensorFlow", icon: "/Skill-icon/3-tensorflow.svg" },
+                { name: "PyTorch", icon: "/Skill-icon/3-pytorch.svg" },
+                { name: "Scikit-Learn", icon: "/Skill-icon/3-scikitlearn.svg" },
+                { name: "Pandas", icon: "/Skill-icon/3-pandas.svg" },
+                { name: "NumPy", icon: "/Skill-icon/3-numpy.svg" },
+                { name: "EfficientNet", icon: "/Skill-icon/4-EfficientNet.svg" },
+                { name: "CNN", icon: "/Skill-icon/4-CNN.svg" }
             ] 
         },
         { 
             id: 3, 
             name: ["FrontEnd &","BackEnd"], 
             skills: [
-                { name: "React JS", icon: "/src/assets/Skill-icon/2-react.svg" },
-                { name: "Node.js", icon: "/src/assets/Skill-icon/4-nodejs.svg" },
-                { name: "ExpressJS", icon: "/src/assets/Skill-icon/4-express.svg" },
-                { name: "Tailwind", icon: "/src/assets/Skill-icon/4-tailwindcss.svg" },
-                { name: "Laravel", icon: "/src/assets/Skill-icon/4-laravel.svg" },
-                { name: "CodeIgniter", icon: "/src/assets/Skill-icon/4-codeigniter.svg" }
+                { name: "React JS", icon: "/Skill-icon/2-react.svg" },
+                { name: "Node.js", icon: "/Skill-icon/4-nodejs.svg" },
+                { name: "ExpressJS", icon: "/Skill-icon/4-express.svg" },
+                { name: "Tailwind", icon: "/Skill-icon/4-tailwindcss.svg" },
+                { name: "Laravel", icon: "/Skill-icon/4-laravel.svg" },
+                { name: "CodeIgniter", icon: "/Skill-icon/4-codeigniter.svg" }
             ] 
         },
         { 
             id: 4, 
             name: ["UI / UX", "Design"], 
             skills: [
-                { name: "Figma", icon: "/src/assets/Skill-icon/5-figma.svg" },
-                { name: "WebFlow", icon: "/src/assets/Skill-icon/5-webflow.svg" },
-                { name: "PenPot", icon: "/src/assets/Skill-icon/4-PenPot.svg" },
-                { name: "MockPlus", icon: "/src/assets/Skill-icon/4-mockplus.svg" },
-                { name: "UIzard", icon: "/src/assets/Skill-icon/4-UIzard.svg" },
-                { name: "Zeplin", icon: "/src/assets/Skill-icon/5-zeplin.svg" }
+                { name: "Figma", icon: "/Skill-icon/5-figma.svg" },
+                { name: "WebFlow", icon: "/Skill-icon/5-webflow.svg" },
+                { name: "PenPot", icon: "/Skill-icon/4-PenPot.svg" },
+                { name: "MockPlus", icon: "/Skill-icon/4-mockplus.svg" },
+                { name: "UIzard", icon: "/Skill-icon/4-UIzard.svg" },
+                { name: "Zeplin", icon: "/Skill-icon/5-zeplin.svg" }
             ] 
         },
         { 
             id: 5, 
             name: ["Additional", "Skill"], 
             skills: [
-                { name: "Photoshop", icon: "/src/assets/Skill-icon/6-photoshop.svg" },
-                { name: "Illustrator", icon: "/src/assets/Skill-icon/5-illustrator.svg" },
-                { name: "Affinity", icon: "/src/assets/Skill-icon/6-affinity.svg"},
-                { name: "Blender", icon: "/src/assets/Skill-icon/6-blender.svg" },
-                { name: "Autodesk 3D Max", icon: "/src/assets/Skill-icon/6-autodesk-3ds-max.svg" },
-                { name: "Capcut", icon: "/src/assets/Skill-icon/6-capcut.svg" }
+                { name: "Photoshop", icon: "/Skill-icon/6-photoshop.svg" },
+                { name: "Illustrator", icon: "/Skill-icon/5-illustrator.svg" },
+                { name: "Affinity", icon: "/Skill-icon/6-affinity.svg"},
+                { name: "Blender", icon: "/Skill-icon/6-blender.svg" },
+                { name: "Autodesk 3D Max", icon: "/Skill-icon/6-autodesk-3ds-max.svg" },
+                { name: "Capcut", icon: "/Skill-icon/6-capcut.svg" }
             ] 
         }
     ];
