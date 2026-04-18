@@ -97,7 +97,7 @@ export const Experience = ({ onShowProjects }) => {
                 >
                     <h3 className="text-[#ff9500] font-bold text-lg mb-2 uppercase tracking-widest">Work Experience</h3>
                     <h2 className="text-4xl md:text-5xl font-bold text-white tracking-tight mb-4">
-                        <span className="text-[#ff9500]">EXP</span> that help me Level Up !!!
+                        <span className="text-[#ff9500]">EXP-erience</span> that help me Level Up !!!
                     </h2>
                     <p className="text-gray-400 text-sm leading-relaxed max-w-2xl mx-auto md:mx-0">
                         Perjalanan dan pengalaman selama kuliah membantu membentuk keterampilan teknis dan soft-skill saya di bidang teknologi.
