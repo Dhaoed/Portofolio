@@ -112,7 +112,7 @@ export const About = ({ onShowProjects }) => {
                                 Sneak Peak
                             </button>
                             <div className="w-full sm:w-auto flex justify-center">
-                                <a href="/src/assets/doc/CV. Pribadi.pdf" 
+                                <a href="/doc/CV. Pribadi.pdf" 
                                     target="_blank" 
                                     rel="noopener noreferrer"
                                     className="w-full"
