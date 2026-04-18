@@ -78,7 +78,7 @@ export const Education = () => {
                         {/* Tombol Aksi Bawah */}
                         <div className="flex flex-wrap gap-4 mt-12 justify-center">
                             <a 
-                                href="/src/assets/doc/My Thesis Full Text.pdf" 
+                                href="/doc/My Thesis Full Text.pdf" 
                                 target="_blank" 
                                 rel="noopener noreferrer"
                                 className="bg-[#ff9500] hover:bg-[#e87f24] text-white px-6 py-2 rounded-lg font-bold transition-colors duration-300 shadow-lg flex items-center gap-2"
