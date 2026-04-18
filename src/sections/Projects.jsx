@@ -33,24 +33,22 @@ export const Projects = () => {
                 "/projects/DEFEND/Id1F.png",
                 "/projects/DEFEND/Id1G.png"
             ]
-        },/*
+        },
         {
             id: 2,
-            title: "NST E-Catalog",
-            description: "A streamlined digital storefront for NST Phoneshop that digitizes product inventory. It enhances the customer journey by providing a searchable, high-resolution interface for browsing mobile device specifications and availability.",
-            extendedDesc: "Designed a digital storefront for NST Phoneshop to modernize product browsing. The platform digitizes inventory management and enhances customer experience by providing a searchable interface for product specifications and high-resolution imagery.",
-            tags: ["ReactJS", "ViteJS", "TailwindCSS", "Typescript", "SupaBase."],
-            link: "https://github.com/Dhaoed/NST-E-Catalog.git",
+            title: "Customer Segmentation Classification",
+            description: "An interactive web application for data-driven customer classification. The platform enables users to segment customer data using Naive Bayes or Extreme Learning Machine (ELM) algorithms.",
+            extendedDesc: "An interactive data science web application designed to classify and analyze customer demographics using **Naive Bayes** and **Extreme Learning Machine** algorithms. The platform features a streamlined user interface for inputting key customer attributes and delivers actionable insights through real-time data visualizations, including segment distribution analysis and feature importance mapping.",
+            tags: ["Machine Learning", "Python", "Streamlit"],
+            link: "https://github.com/Dhaoed/Customer-Segmentation.git",
             images: [
-                "/projects/NST E-Catalog/Id2A.png",
-                "/projects/NST E-Catalog/Id2B.png",
-                "/projects/NST E-Catalog/Id2C.png",
-                "/projects/NST E-Catalog/Id2D.png",
-                "/projects/NST E-Catalog/Id2E.png",
-                "/projects/NST E-Catalog/Id2F.png",
-                "/projects/NST E-Catalog/Id2G.png"
+                "/projects/CS-Classifier/Id9A.png",
+                "/projects/CS-Classifier/Id9B.png",
+                "/projects/CS-Classifier/Id9C.png",
+                "/projects/CS-Classifier/Id9D.png",
+                "/projects/CS-Classifier/Id9E.png"
             ]
-        },*/
+        },
         {
             id: 3,
             title: "SIMPENAN : Sistem Informasi Penyimpanan dan Pengarsipan",
